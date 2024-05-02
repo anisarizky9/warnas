@@ -60,8 +60,8 @@
                                     </div>
                                     <div class="col-lg-12">
                                         <div class="form-group">
-                                            <label class="form-control-label" for="input-username">Telepon :</label>
-                                            <label><?= $i['telepon'] ?></label>
+                                            <label class="form-control-label" for="input-username">No Hp :</label>
+                                            <label><?= $i['No Hp'] ?></label>
                                         </div>
                                     </div>
                                     <div class="col-lg-12">
