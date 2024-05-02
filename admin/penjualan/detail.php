@@ -7,7 +7,7 @@
                     <nav aria-label="breadcrumb" class="d-none d-md-inline-block ml-md-4">
                         <ol class="breadcrumb breadcrumb-links breadcrumb-dark">
                             <li class="breadcrumb-item"><a href="<?= base_url() ?>admin"><i class="fas fa-home"></i></a></li>
-                            <li class="breadcrumb-item"><a href="<?= base_url() ?>penjualan">Riwayat Pemesanan</a></li>
+                            <li class="breadcrumb-item"><a href="<?= base_url() ?>penjualan">Daftar Pemesanan</a></li>
                             <li class="breadcrumb-item active" aria-current="page">Detail Pemesanan</li>
                         </ol>
                     </nav>
