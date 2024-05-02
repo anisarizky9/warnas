@@ -57,7 +57,7 @@
                                         <td><?= $m['atas_nama'] ?></td>
                                         <td>
                                             <button data-toggle="modal" data-target="#editmetodemodal" onclick="edit_metode(<?= $m['id_metode'] ?>)" class="btn btn-sm btn-warning">Edit</button>
-                                            <a href="<?= base_url() ?>profilusaha/hapusmetodepembayaran/<?= $m['id_metode'] ?>" onclick="return confirm('Apakah Anda Yakin Ingin Menghapus Metode Pembayaran <?= $m['nama_merchant'] ?>?');" class="btn btn-sm btn-danger">Hapus</a>
+                                            <a href="<?= base_url() ?>profilusaha/deletemetodepembayaran/<?= $m['id_metode'] ?>" onclick="return confirm('Yakin Ingin Menghapus Metode Pembayaran <?= $m['nama_merchant'] ?>?');" class="btn btn-sm btn-danger">Hapus</a>
                                         </td>
                                         </td>
                                     </tr>
