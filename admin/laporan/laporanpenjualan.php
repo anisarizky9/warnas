@@ -5,7 +5,7 @@
     <tr>
     <th>Kode Pembayaran</th>
                                 <th>Nama Pemesan</th>
-                                <th>Tanggal Pesan</th>
+                                <th>Tanggal Pemesanan</th>
                                 <th>Tanggal Reservasi</th>
                                 <th>Total Pembayaran</th>
                                 <th>Status Pembayaran</th>
