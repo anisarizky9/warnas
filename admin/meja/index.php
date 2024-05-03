@@ -38,7 +38,7 @@
                         <table class="table table-flush dataTable" id="datatable-id" role="grid" aria-describedby="datatable-basic_info">
                             <thead class="thead-dark">
                                 <tr role="row">
-                                    <th>Nomor Meja</th>
+                                    <th>No Meja</th>
                                     <th>Kapasitas (Orang)</th>
                                     <th>Aksi</th>
                                 </tr>
